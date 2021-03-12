@@ -12,3 +12,9 @@ When user goes to login page:
  * Submit information.
  * If successful, redirect to a Home page
  * If unsuccessful, message pops up stating that login was unsuccessful.
+ 
+ When user registers:
+ *Type name, email, password
+ *Submit information
+ *If successful, information is addded to db
+ *If unsuccessful, message will pop up saying user already exists.
